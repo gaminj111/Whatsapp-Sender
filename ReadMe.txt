@@ -1,0 +1,1 @@
+You need to install OpenCV to use the script.
